@@ -1,2 +1,3 @@
-# python_rsc
-Resources and notes for Python development.
+# Python resources
+
+This is a collection of my notes, guides and resources while learning and working with Python.
